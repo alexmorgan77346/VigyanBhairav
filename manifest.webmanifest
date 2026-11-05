@@ -1,0 +1,9 @@
+{
+  "name": "विज्ञान भैरव तंत्र – 112 Meditation Techniques",
+  "short_name": "VBT 112",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#7d9378",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
